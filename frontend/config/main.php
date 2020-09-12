@@ -53,7 +53,7 @@ return [
                 'host' => 'smtp.gmail.com',
                 'port' => '587',
                 'username' => 'dima.chumak.2015@gmail.com',
-                'password' => 'az226235226235',
+                'password' => '',
             ],
         ]
 
